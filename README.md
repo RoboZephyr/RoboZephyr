@@ -1,4 +1,5 @@
 ```
+> RoboZephyr — zephyr, with a runtime.
 > Fully automated human.
 ```
 
@@ -14,6 +15,8 @@ stack: whatever gets the job done
 tools: Claude Code / Codex / the next thing
 interest: making AI do the heavy lifting
 ```
+
+→ [robozephyr.com](https://robozephyr.com)
 
 ---
 
